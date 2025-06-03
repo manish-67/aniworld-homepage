@@ -64,3 +64,13 @@ body {
 .world-text {
   color: #fff !important;
 }
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1050;
+}
+
+.navbar {
+  background: #1a1a2e !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
